@@ -1,4 +1,4 @@
 line 1
 line 2
-line 3alice
+line 3 both
 line 4
